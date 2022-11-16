@@ -1,0 +1,51 @@
+#Mi proyecto web va tener lo siguiente :
+#su contenido va ser de 5 app las cuales incluiran (home ,servicios,tienda , blog y contacto)
+#logo , menu, zona de carga de contenidos(contenidos estaticos y dinamicos ),pie de pagina (redes sociales y contacto)
+#Creacion de urls y vistas
+#Manejar archivos externos 
+#Configuracion del panel de administracion
+#Configuracion y conexion con BBDD
+#Crud con BBDD
+#Trabajo con formulario y envio de mails
+#Despliegue
+
+#primeros pasos de mi proyecto (gestion de pedidos )
+#django-admin 
+#django startapp
+#vistas y urls
+#urls y templates
+#Formato a sitio web con bootstrap
+#Creacion de plantillas(templates)
+#Herencia de plantillas y estructura del sitio
+#ya cree una app para proyectowebapp (general)
+#Creacion de una segunda app para los servicios (modularizacion ,reutilizacion )
+#models en  django documentation (meta option)
+#python install pilow (imagenes)
+#python manage.py makemigration
+#python manage.py migrate 
+#registro de app en el panel de administracion 
+#django administracion (cree usuario (nombre ) y contraseña 1-8)
+#En settings.py tambien cambie el idioma LANGUAGE_CODE= 'es-eu'
+#Mostrar imagenes (guardar imagenes ,baje las img de pexeles)
+#Mostrar servicios 
+#construi App gestionPedidos (en esta creo formulario para insertar y buscar productos)
+#creo formulario para buscar productos BBDD.(a futuro se modificara para vincularlo con al app tienda y contactopara )
+#construi App contacto (formulario )
+#usamos libreria form de django(documentacion)
+#formato al formulario (renderizar formularios )
+#creo formulario de usuario (formato al mismo ,django-crispy-form , bootstrap4 , css)
+#Envio de datos (la informacion la voy enviar utizando el metodo "POST")
+#Esta informacion se almacena en un diccionario (con esta podemos ver los que se guarda en el diccionario{{request.POST}})
+#datos de confinguracion de una cuenta de correo electronico "email"(nombre usuario , contraseña , direccion host , puerto , autenticacion)
+#cree gmail de prueba  exclusivo para proyectoweb (barbargustavomili@gmail.com)
+
+#PENDIENTES  para la siguiente entrega para completar proyectoweb
+#App tienda ,Blog:
+#crearlas
+#categoria+producto
+#models
+#Registros en admon 
+#creacion , vistas , urls , templates 
+#Crud con BBDD
+#Trabajo con formulario y envio de mails
+#Despliegue 
