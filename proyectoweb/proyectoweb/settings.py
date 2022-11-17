@@ -42,7 +42,8 @@ INSTALLED_APPS = [
     'contacto',
     'gestionPedidos',
     'autenticacion',
-    'crispy_forms'
+    'crispy_forms',
+    'blog',
 ]
 
 MIDDLEWARE = [
